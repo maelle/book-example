@@ -1,5 +1,7 @@
-# Preface {.unnumbered}
+# Prefacio {.unnumbered}
 
-This is a Quarto book.
+Este es un libro Cuarto.
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+Para saber más sobre los libros Quarto, visita [https://quarto.org/docs/books](https://quarto.org/docs/books).
+
+
